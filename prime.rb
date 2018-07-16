@@ -1,3 +1,3 @@
-def prime?(Integer)
+def prime?(i)
   
 end
