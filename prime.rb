@@ -1,3 +1,3 @@
-def prime?(Fixnum)
+def prime?(i)
   
 end
