@@ -1,6 +1,10 @@
-class Fixnum
-  def prime?
-    return false if num >= 1
+require 'prime'
 
-  end
-end
+Prime.prime?
+
+# class Fixnum
+#   def prime?
+#     return false if num >= 1
+
+#   end
+# end
