@@ -1,7 +1,7 @@
 require 'prime'
 
-def prime?(Integer)
-  Integer.prime?
+def prime?(num)
+  num.prime?
 end 
 
 # class Fixnum
