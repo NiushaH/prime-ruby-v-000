@@ -1,6 +1,6 @@
-def prime?(num)
+class Fixnum
+  def prime?
     return false if num >= 1
 
-    2.upto.prime?
-
+  end
 end
