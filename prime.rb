@@ -1,6 +1,6 @@
 require 'prime'
 
-Prime.prime?
+Integer.prime?
 
 # class Fixnum
 #   def prime?
